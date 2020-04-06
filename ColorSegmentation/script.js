@@ -8,7 +8,7 @@ const noise = 2;
 let factor;
 
 function preload() {
-    img = loadImage('imgs/img2_1.jpg');
+    img = loadImage('imgs/img1.png');
     factor = floor(250/numOfCols);
 }
 
