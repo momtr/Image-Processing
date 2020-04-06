@@ -3,7 +3,7 @@ let noise;
 let constPixels;
 
 function preload() {
-    img = loadImage('imgs/img2.jpg');
+    img = loadImage('imgs/img1.jpg');
 }
 
 function setup() {
