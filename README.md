@@ -7,7 +7,7 @@ Then the average (or black-white value) is mapped to a certain color that is ran
 <br>
 Example: <br>
 
-![ex1](https://github.com/moritzmitterdorfer/Image-Processing/edit/master/ex1.png)
+![ex1](https://github.com/moritzmitterdorfer/Image-Processing/blob/master/ex1.png)
 
 ## 2. Black/White Filter
 The black/white value per pixel is obtained by calculating the average of the r, g and b values.
