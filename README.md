@@ -3,7 +3,7 @@
 
 ## 1. Image Segmentation
 Here, the image is converted to a black-white image by calculating the averge of the r, g and b values per pixel.
-Then the average (or black-white value) is mapped to a certain color that is randomly generated.
+Then the average (or black-white value) is mapped to a certain color which is randomly generated.
 <br>
 Example: <br>
 
